@@ -12531,7 +12531,7 @@ Main = (function()
             { 11, "UICorner",   { CornerRadius = UDim.new(1, 0), Parent = { 10 }, } },
             { 12, "Frame",      { BackgroundColor3 = Color3.fromRGB(0, 162, 255), BorderSizePixel = 0, Name = "Bar", Parent = { 10 }, Size = UDim2.new(0, 0, 1, 0), } },
             { 13, "UICorner",   { CornerRadius = UDim.new(1, 0), Parent = { 12 }, } },
-            { 14, "TextLabel",  { BackgroundColor3 = Color3.new(1, 1, 1), BackgroundTransparency = 1, Font = Enum.Font.Gotham, Name = "Creator", Parent = { 2 }, Position = UDim2.new(1, -110, 1, -20), Size = UDim2.new(0, 105, 0, 20), Text = "Updated by Perfectus", TextColor3 = Color3.fromRGB(150, 150, 150), TextSize = 12, TextXAlignment = 1, } },
+            { 14, "TextLabel",  { BackgroundColor3 = Color3.new(1, 1, 1), BackgroundTransparency = 1, Font = Enum.Font.Gotham, Name = "Creator", Parent = { 2 }, Position = UDim2.new(1, -110, 1, -20), Size = UDim2.new(0, 105, 0, 20), Text = "Updated by Farleyy", TextColor3 = Color3.fromRGB(150, 150, 150), TextSize = 12, TextXAlignment = 1, } },
             { 15, "UIGradient", { Parent = { 14 }, Transparency = NumberSequence.new({ NumberSequenceKeypoint.new(0, 1, 0), NumberSequenceKeypoint.new(1, 1, 0), }), } },
             { 16, "TextLabel",  { BackgroundColor3 = Color3.new(1, 1, 1), BackgroundTransparency = 1, Font = Enum.Font.Gotham, Name = "Version", Parent = { 2 }, Position = UDim2.new(1, -110, 1, -35), Size = UDim2.new(0, 105, 0, 20), Text = Main.Version, TextColor3 = Color3.fromRGB(150, 150, 150), TextSize = 12, TextXAlignment = 1, } },
             { 17, "UIGradient", { Parent = { 16 }, Transparency = NumberSequence.new({ NumberSequenceKeypoint.new(0, 1, 0), NumberSequenceKeypoint.new(1, 1, 0), }), } },
